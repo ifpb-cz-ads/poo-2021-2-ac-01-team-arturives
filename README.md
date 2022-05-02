@@ -14,11 +14,13 @@ dito na própria sigla que deriva do nome Java Development Kit.
 
 3 - 
 
+```
 public class Program {
     public static void main(String[] args){
         System.out.println("Terminei a primeira aula com um programa Java!");
     }
 }
+```
 
 4 - O terminal retornou a seguinte mensagem:
  Erro: Não foi possível localizar nem carregar a classe principal program
@@ -35,12 +37,14 @@ O programa não executou pois é necessário que exista um metodo main, será ex
 
 6 - 
 
+```
 public class Program {
     public static void main(String[] args){
         System.out.println("Ives Furtado");
         System.out.println("Brasil");
     }
 }
+```
 
 7 - Erro de sintaxe, pois a linguagem Java é Case Sensitive, o que significa que letras maiusculas ou minusculas não são intepretadas igualmente.
 
